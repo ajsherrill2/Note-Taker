@@ -7,7 +7,6 @@ In this Project I was tasked with creating a note taker application that runs on
 ## Table of Contents
 
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 - [Badges](#Badges)
 - [Features](#Features)
