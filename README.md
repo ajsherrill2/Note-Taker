@@ -20,7 +20,7 @@ You can find the live application at https://ajs-note-taker.herokuapp.com/
 
 GIF of Note Taker functionality:
 
-<img src="./assets/Note-Taker.gif">
+<img src="./Develop/assets/Note-Taker.gif">
 
 Take a deeper look into the development here [here](https://github.com/ajsherrill2/Note-Taker.git)
 
